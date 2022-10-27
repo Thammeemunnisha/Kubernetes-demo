@@ -1,0 +1,4 @@
+com\k8sdemospringboot\demo\DemoController.class
+com\k8sdemospringboot\demo\HelloWorldBean.class
+com\k8sdemospringboot\demo\DemoApplication.class
+com\k8sdemospringboot\demo\service\InstanceInformationService.class
